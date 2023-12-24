@@ -1,3 +1,4 @@
 https://i.am.ai/roadmap --> roadmap de IA experto con links y mucho material
 https://www.youtube.com/watch?v=OzZIOiMVUyM&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&index=79 --> Curso de deep learning pesado
 https://probability4datascience.com/ --> Probabilidades y Estadística
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f4910c92c5e4f231fdcca2259e11c1c54ff51443 --> survey de las ideas detras de "circuitos de modelos" 1995 dos años antes de LSTM
