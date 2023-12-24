@@ -1,2 +1,3 @@
 https://i.am.ai/roadmap --> roadmap de IA experto con links y mucho material
-
+https://www.youtube.com/watch?v=OzZIOiMVUyM&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&index=79 --> Curso de deep learning pesado
+https://probability4datascience.com/ --> Probabilidades y Estadística
